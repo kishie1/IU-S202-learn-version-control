@@ -34,5 +34,11 @@
     "scientificName": "Canis lupus",
     "habitat": "Forests, grasslands, and tundra",
     "description": "A social wild canine that lives and hunts in packs."
+  },
+  {
+    "commonName": "Red Fox",
+    "scientificName": "Vulpes vulpes",
+    "habitat": "Forests, grasslands, and urban areas",
+    "description": "A small adaptable mammal known for its reddish fur and bushy tail."
   }
 ]
