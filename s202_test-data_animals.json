@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+  {
+    "commonName": "Gray Wolf",
+    "scientificName": "Canis lupus",
+    "habitat": "Forests, grasslands, and tundra",
+    "description": "A social wild canine that lives and hunts in packs."
   }
 ]
